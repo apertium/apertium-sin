@@ -263,22 +263,6 @@
     <e><p><l>යින්ව</l><r>යා<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
 	</pardef>
 	
-	<pardef n="ළම/යා__n">
-		<e><p><l>යා</l><r>යා<s n="n"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
-		<e><p><l>යෙක්</l><r>යා<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/><s n="subj"/></r></p></e>
-		<e><p><l>යෙකු</l><r>යා<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/><s n="obj"/></r></p></e>
-		<e><p><l>යාගේ</l><r>යා<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-    <e><p><l>යාට</l><r>යා<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
-    <e><p><l>යාගෙන්</l><r>යා<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
-    <e><p><l>යාව</l><r>යා<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-		<e><p><l>යි</l><r>යා<s n="n"/><s n="m"/><s n="pl"/><s n="subj"/></r></p></e>
-		<e><p><l>යින්</l><r>යා<s n="n"/><s n="m"/><s n="pl"/><s n="obj"/></r></p></e>
-		<e><p><l>යින්ගේ</l><r>යා<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
-    <e><p><l> යිින්ට</l><r>යා<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
-    <e><p><l>යින්ගෙන්</l><r>යා<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
-    <e><p><l>යින්ව</l><r>යා<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
-	</pardef>
-	
 	<pardef n="මිනි/සා__n">
 		<e><p><l>සා</l><r>සා<s n="n"/><s n="m"/><s n="sg"/><s n="def"/></r></p></e>
 		<e><p><l>සෙක්</l><r>සා<s n="n"/><s n="m"/><s n="sg"/><s n="ind"/><s n="subj"/></r></p></e>
